@@ -281,7 +281,7 @@ export default function Home() {
                         </div>
 
                         <div className="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
-                            Laravel Breeze + Next.js template
+                            라라벨과 NextJS 세팅법
                         </div>
                     </div>
                 </div>
